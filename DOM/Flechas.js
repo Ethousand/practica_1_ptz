@@ -1,0 +1,1 @@
+alert("a partir de ahora se utilizarán las Flechas del Teclado");
